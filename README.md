@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100086063096133&mibextid=ZbWKwL" /></a>
-<a href="nstagram.com/armusharrat/?igshid=ZDdkNTZiNTM%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armusharrat" height="30" width="40" /></a>
+<a href="Instagram.com/armusharrat/?igshid=ZDdkNTZiNTM%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armusharrat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100086063096133&mibextid=ZbWKwL"
     target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armusharrat" height="30" width="40" /></a>
 
